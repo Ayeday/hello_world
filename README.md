@@ -7,7 +7,7 @@ Creating a simple web page using html is done via the following.
 
 Using <tags>
   
-  <<!DOCTYPE html>>
+  <!-- <!DOCTYPE html> -->
   <html>
   <head>
     <title>This is the document title</title>
