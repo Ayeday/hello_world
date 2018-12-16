@@ -18,5 +18,5 @@ Using <tags>
   <body>
     <p>A simple web page should be written using html5 for the best presentation</p>
     <p>View n
-    
     </body>
+  <html>
