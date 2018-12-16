@@ -5,6 +5,7 @@ This is a basic github to show how to set up a hello World project
 
 Creating a simple web page using html is done via the following. 
 
+The tags have been spaced out to show the html code, i.e. < html > rather than //<html>
 Using < tags >
   
   <!-- <!DOCTYPE html> -->
