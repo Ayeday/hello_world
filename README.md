@@ -5,18 +5,18 @@ This is a basic github to show how to set up a hello World project
 
 Creating a simple web page using html is done via the following. 
 
-Using <tags>
+Using < tags >
   
   <!-- <!DOCTYPE html> -->
-  <html>
-  <head>
-    <title>This is the document title</title>
-  <style>
+  < html >
+  < head >
+    < title >This is the document title< /title >
+  < style >
     p {color:red;}
-    </style>
-  </head>
-  <body>
-    <p>A simple web page should be written using html5 for the best presentation</p>
-    <p>View n
-    </body>
-  <html>
+    < /style >
+  < /head >
+  < body >
+    < p >A simple web page should be written using html5 for the best presentation< /p >
+    < p >View information in the page
+    < /body >
+  < html >
